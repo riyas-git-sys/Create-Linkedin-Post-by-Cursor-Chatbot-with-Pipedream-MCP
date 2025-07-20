@@ -1,0 +1,4 @@
+body { font-family: Arial; padding: 20px; }
+.container { max-width: 600px; margin: auto; }
+textarea, input { width: 100%; margin: 10px 0; padding: 10px; }
+button { background: #0077b5; color: white; border: none; padding: 10px 15px; }
